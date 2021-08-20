@@ -187,6 +187,13 @@ margin-bottom: 50px;
 .text p{
   font-size: 18px;
 }
+.text .para{
+  font-weight: bold;
+}
+.text span{
+  color: #07f827;
+  font-size: 30px;
+}
 @media (max-width:991px){
   .about{
     width: 100%;
